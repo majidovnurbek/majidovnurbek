@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFjaFn6Y0Ngbw/profile-displaybackgroundimage-shrink_350_1400/0/1709789608362?e=1721865600&v=beta&t=3aH_MNEg4pRWexO97Mk2oi-uYwH8jYs4KVHD_APblD8" >
+![image](https://github.com/user-attachments/assets/1c2d95e4-9604-4868-98bd-f560935718e9)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=Hello+%F0%9F%91%8B%2C+I'm+Nurbek;I'm+Web+Developer+%F0%9F%8C%90;I'm+Back-end+Developer+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Front-end & Bak-end Developer from Uzbekistan 🇺🇿</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majidovnurbek" alt="majidovnurbek" /></a> </p>
