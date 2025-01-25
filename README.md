@@ -1,17 +1,15 @@
 ![image](https://github.com/user-attachments/assets/1c2d95e4-9604-4868-98bd-f560935718e9)
 
 
-
 <h1 align="center">Hi 👋, I'm Majidov Nurbek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidovnurbek&label=Profile%20views&color=0e75b6&style=flat" alt="majidovnurbek" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majidovnurbek" alt="majidovnurbek" /></a> </p>
+<img align="right" "margin-top: -100px;" alt="Coding" width="400" height="" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/n" target="blank"><img src="https://img.shields.io/twitter/follow/n?logo=twitter&style=for-the-badge" alt="n" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Django Rest Framework**
+
+- 🌱 I’m currently learning **Django,Django Rest**
 
 - 💬 Ask me about **Back-end**
 
@@ -24,9 +22,7 @@
 <a href="https://instagram.com/majdov__nurbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majidov__nurbek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/majidovnurbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n" height="30" width="40" /></a>
 </p>
-
-<br><br>
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,java,bootstrap,figma,linux,ubuntu,photoshop,nodejs,postgres,sqlite,react,django,fastapi,sass,python,linkedin,codepen,pycharm,visualstudio,gitlab,heroku,htmx,idea,jquery,npm,stackoverflow" />
