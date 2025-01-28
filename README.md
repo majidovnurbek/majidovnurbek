@@ -30,7 +30,10 @@
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majidovnurbek&show_icons=true&locale=en&layout=compact" alt="majidovnurbek" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majidovnurbek&show_icons=true&locale=en" alt="majidovnurbek" /></p>
-
+<div align="center" style="display: flex; justify-content: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majidovnurbek&show_icons=true&locale=en&layout=compact" alt="majidovnurbek" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=majidovnurbek&show_icons=true&locale=en" alt="majidovnurbek" width="50%" />
+</div>
+<div align="left" style="margin-top: 20px; width: 80%; margin-left: 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majidovnurbek&theme=2077" alt="Profile Details" width="100%" />
+</div>
